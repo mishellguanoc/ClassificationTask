@@ -15,8 +15,8 @@ This is an interactive Streamlit web application for **exploratory data analysis
 
 1. **Clone the repository:**
 ``bash
-git clone <YOUR_REPOSITORY_URL>
-cd Assign_1
+git clone https://github.com/mishellguanoc/ClassificationTask.git
+
 
 2. **Create and activate a virtual environment:**
 # Windows
